@@ -18,6 +18,7 @@ h1 {
 .half-width {
     width: 50%;
     padding: 4%;
+
 }
 
 .half-width image {
@@ -40,4 +41,8 @@ h1 {
 
 slection {
     display: flex;
+}
+
+.exprience-item {
+    box-shadow: 10px 10px crimson;
 }
